@@ -1,4 +1,4 @@
-#Neural Trajectories Reconstruction Matlab Toolbox 1.5 beta
+# Neural Trajectories Reconstruction Matlab Toolbox 1.5 beta
 
 # I. Overview
 This toolbox performs statistical analyses on nonlinear time-series of multivariate
@@ -29,3 +29,4 @@ Dimensional Neural Recordings. Neuroforum 4/10: 266-276](https://www.degruyter.c
 estimate firing rates from spike trains) are not provided within this version. Please see
 e.g. Yu et al. (2009) for this means.
 
+For full information read ['DEPRECATED_readMeFirst.pdf'](https://github.com/DurstewitzLab/NTR_1.5/blob/master/DEPRECATED_readMeFirst.pdf)
